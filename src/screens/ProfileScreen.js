@@ -179,7 +179,7 @@ export default function ProfileScreen(props) {
 
 
     const mailTo = async () => {
-        await Linking.openURL('mailto: basabari@oasisoneric.tech');
+        await Linking.openURL('mailto: ionindo7@gmail.com');
     };
 
     const UpdateNameBottomSheet = useRef();
